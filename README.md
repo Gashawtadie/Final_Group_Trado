@@ -44,14 +44,14 @@ example: find, click, send to keys, wait, assertion etc all are that i use repea
 
 
 ########  Types of test
-We used different types of tests most of them are
+I used different types of tests most of them are
 * Functional testing
 * compatibility 
 * UI 
 * performance
 
 
-######  Tools that we used
+######  Tools that I used
 
 * Python  ![python](https://user-images.githubusercontent.com/113560142/220672827-75443b76-d443-49e4-ad24-7abb92a9d862.png)
 
@@ -63,19 +63,9 @@ We used different types of tests most of them are
 
 * Pytest ![pytest](https://user-images.githubusercontent.com/113560142/220673437-bfed9e2a-5353-4c82-9d46-d1b23531a28a.png)
 
-* Puppteer ![puppeteer](https://user-images.githubusercontent.com/113560142/220673619-a9f308ad-d7a5-4078-8015-58d50e80d88f.png)
-
 * Draw.io ![draw](https://user-images.githubusercontent.com/113560142/220673778-56e80c52-c544-4675-8216-9bbfbc1d1ca7.png)
  
 * MongoDB ![MongoDB_Logo svg](https://user-images.githubusercontent.com/113560142/220673998-10166aec-e5a1-4820-8c52-a7cf790754b1.png)
-
-* JeMeter ![jmeter](https://user-images.githubusercontent.com/113560142/220674146-ddfee0f7-106b-4a16-b574-6f74e7fb31d2.png)
-
-* Request ![image](https://user-images.githubusercontent.com/113560142/220675880-5344c181-169c-4b09-8648-19aca5e70c5e.png)
-
-
-##### In our project we use 
-
 
 
 Author - Group participants
